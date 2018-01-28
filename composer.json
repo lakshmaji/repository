@@ -1,0 +1,24 @@
+{
+    "name": "lakshmaji/repository",
+    "description": "Repository Pattern for Laravel",
+    "keywords": [
+        "Laravel",
+        "Repository",
+        "Repositories"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lakshmaji",
+            "email": ""
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Lakshmaji\\Repository\\": "src/"
+        }
+    }
+}
