@@ -4,3 +4,4 @@ jobs:
   build:
     steps:
       - run: composer install -n --prefer-dist
+
